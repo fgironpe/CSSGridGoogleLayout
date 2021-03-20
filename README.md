@@ -1,2 +1,3 @@
 # CSSGridGoogleLayout
-Created with CodeSandbox
+
+Google layout replication with CSS Grid.

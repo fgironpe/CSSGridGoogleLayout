@@ -1,5 +1,5 @@
 {
-  "name": "cssgridgooglelayout",
+  "name": "css-grid-google-layout",
   "version": "1.0.0",
   "description": "Google layout replication with CSS Grid.",
   "main": "index.html",
